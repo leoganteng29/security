@@ -1,9 +1,7 @@
 {
-  "roles": {
-    "reseller": [],
-    "owner": [],
-    "pt": [],
-    "mods": []
-  },
-  "tokens": []
+  "tokens": [],
+  "resellers": [],
+  "owners": [],
+  "pts": [],
+  "mods": []
 }
