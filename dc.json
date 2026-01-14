@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BotUtama",
+    "token": "7123456789:AAH_example_token_1",
+    "date": "14/01/2026, 15:30:00",
+    "addedBy": "username_discord#1234"
+  },
+  {
+    "name": "BotBackup",
+    "token": "8123456789:BBG_example_token_2",
+    "date": "14/01/2026, 16:00:00",
+    "addedBy": "username_discord#1234"
+  }
+]
