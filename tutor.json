@@ -2,7 +2,9 @@
   "tokens": [
     "8152495076:AAE1SZjyycoJQGRC5wsP2UKJNwEXxAqg_A4"
   ],
-  "resellers": [],
+  "resellers": [
+    7973161454
+  ],
   "owners": [],
   "pts": [],
   "mods": [
